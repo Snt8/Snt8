@@ -2,7 +2,6 @@
 
 # Hi Everyone!, I'm Edy Santiago Avila 👋
 <br />
-<br />
 
 ### 🧑‍💻 About me 
 - 🏫 I'm a current student of High School and a computer enthusiast.
@@ -10,8 +9,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 
 ### 🛠️ My Stack
 <br />
