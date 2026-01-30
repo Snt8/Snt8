@@ -2,8 +2,8 @@
 
 ### 🧑‍💻 About me 
 - 🏫 I'm a current student of High School and a computer enthusiast.
-- 📒 I'm learning about C# and Unity programming.
-- ​🧠​🦾​ I'm in love with the knowledge
+- 📒 I'm learning about the programming world.
+- ​🧠​🦾​ I'm in love with the knowledge.
 
 <br />
 
